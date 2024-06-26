@@ -1,0 +1,9 @@
+Flask==2.3.2
+schedule==1.2.2
+flasgger
+Flask-SQLAlchemy
+Flask-Migrate
+nltk
+APScheduler
+google-api-python-client
+mysql-connector-python
